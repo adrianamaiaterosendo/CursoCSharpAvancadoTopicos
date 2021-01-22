@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eyy5Tw1VSGhkBwqKTT3MHQovwlJGaHnrioqiOJcydwT6XHpI++w4q1wQ9GlL0knfBbKgTxxwd8wIdMLJZUNNQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAIO\\My Private Documents\\Udemy\\CursoCSharp_Avancado_TopicosAvancados\\Solution02\\03_Generics\\03_Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAIO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

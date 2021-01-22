@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

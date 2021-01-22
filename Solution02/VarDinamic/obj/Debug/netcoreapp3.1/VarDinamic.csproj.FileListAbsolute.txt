@@ -1,0 +1,13 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\bin\Debug\netcoreapp3.1\VarDinamic.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\VarDinamic\obj\Debug\netcoreapp3.1\VarDinamic.genruntimeconfig.cache

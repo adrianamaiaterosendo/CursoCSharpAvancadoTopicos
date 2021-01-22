@@ -1,0 +1,15 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\03_Generics.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.genruntimeconfig.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado_TopicosAvancados\Solution02\03_Generics\obj\Debug\netcoreapp3.1\03_Generics.csproj.CopyComplete
